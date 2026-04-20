@@ -15,7 +15,7 @@ An end-to-end options analytics platform built using Python and Streamlit, desig
 ## Data
 
 Uses historical intraday options data (Kaggle / NSE format).  
-Use : https://www.kaggle.com/datasets/senthilkumarvaithi/historical-nifty-options-2024-all-expiries
+Use : https://www.kaggle.com/datasets/senthilkumarvaithi/historical-nifty-options-2024-all-expiries.
 Transforms raw time-series into option chain format.
 
 ##  Key Highlights
