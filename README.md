@@ -1,6 +1,7 @@
 #  Options Analytics Platform (NIFTY / BANKNIFTY)
 
 An end-to-end options analytics platform built using Python and Streamlit, designed for analyzing Indian index derivatives.
+
 Link to live demo : https://options-analytics-platform-nse-data-esv2mprcdf2srxurneracn.streamlit.app/
 
 ##  Features
